@@ -7,7 +7,7 @@ output: pdf_document
   
   URL of our repository: https://github.com/AnnneM/ChallengeB, 
   
-### About the task 3, we have a problem when we run a step 3. We can not detail the time needed to run the steps in this task because of previous error message. We couldn't compile it correctly in pdf. The SIREN dataset was to big to be upload on github so please try to run the task 3, have a copy of the Siren file named "SIREN.csv". 
+### About the task 3, we had a problem when we run the step 3. We couldn't detail the time needed to run the steps in this task because of previous error message. We couldn't compile it correctly in pdf. Also,the SIREN dataset was to big to be upload on github so please when you try to run the task 3, have a copy of the Siren file named "SIREN.csv". 
 
 ```{r setup, include=FALSE}
 
